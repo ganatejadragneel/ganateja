@@ -2,7 +2,7 @@
   "name": "ganatejadragneel-portfolio",
   "version": "2.0.0",
   "private": true,
-  "homepage": "https://ganateja.github.io/",
+  "homepage": "https://ganatejadragneel.github.io/ganateja",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
